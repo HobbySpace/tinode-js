@@ -17,11 +17,14 @@
     "type": "git",
     "url": "git+https://github.com/tinode/tinode-js.git"
   },
+  "types": "./tinode.d.ts",
   "files": [
     "umd/tinode.dev.js",
     "umd/tinode.dev.js.map",
     "umd/tinode.prod.js",
     "umd/tinode.prod.js.map",
+    "tinode.d.ts",
+    "README_RU.md",
     "version.json"
   ],
   "keywords": [
